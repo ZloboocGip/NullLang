@@ -1,0 +1,8 @@
+name: NullLang
+version: '${project.version}'
+main: org.nooll.nulllang.NullLangPlugin
+api-version: '1.16'
+commands:
+  lang:
+    usage: /lang <langg>
+    description: Change your language

@@ -1,0 +1,5 @@
+command:
+  lang:
+    usage: "&eUsage: &f/lang <language> &7Available: %langs%"
+    not-found: "&cLanguage '%lang%' not found."
+    changed: "&aLanguage changed to &f%lang%&a."

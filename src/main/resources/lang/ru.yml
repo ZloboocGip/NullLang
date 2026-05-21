@@ -1,0 +1,5 @@
+command:
+  lang:
+    usage: "&eИспользование: &f/lang <язык> &7Доступно: %langs%"
+    not-found: "&cЯзык '%lang%' не найден."
+    changed: "&aЯзык изменён на &f%lang%&a."
